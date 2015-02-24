@@ -8,7 +8,7 @@ print("This program will add, subtract, multiply, or divide any two integers.")
 def main():
     int1 = (input("Type in your first operand: "))
     int2 = (input("Type in your second operand: "))
-    operAtion = (input("Enter your operation: "))
+    operAtion = (raw_input("Enter your operation: "))
     a = int(int1)  # This casts the first operand as an integer.
     b = int(int2)  # This casts the second operand as an integer.
     print("The first operand is", a)
