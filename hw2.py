@@ -1,4 +1,4 @@
-# File:        Calculator.py
+# File:        hw2.py
 # Written by:  Kyle Fritz
 # Date:        9/19/2013
 # Lab Section: 10
